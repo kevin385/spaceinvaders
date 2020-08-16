@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1584205426 source:d:\programming practice\spaceinvaders\spaceinvaders\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1426327440 d:\program files\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437534942 d:\program files\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1589350171 source:d:\programming practice\spaceinvaders\spaceinvaders\scratchpad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<GL/freeglut.h>
+
+1426327440 d:\program files\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426327440 d:\program files\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1588073906 d:\programming practice\spaceinvaders\spaceinvaders\textures.c
+
+1588073906 source:d:\programming practice\spaceinvaders\spaceinvaders\textures.c
+
+1591342022 source:d:\programming practice\spaceinvaders\spaceinvaders\spaceinvadersmain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<GL/freeglut.h>
+
